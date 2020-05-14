@@ -1,6 +1,6 @@
 /*
 
-- Fetched info about the user from github API
+- Fetches info about the user from github API ( These requests happen concurrently )
 - Stores the data in form of slices and structs
 - Exposes the data using http endpoints
 
